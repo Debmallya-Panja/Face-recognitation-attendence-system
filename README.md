@@ -18,8 +18,17 @@ Download and add Desktop Development with C++
 
 Now, run these commands in Terminal
 
+
 pip install cmake
+
+
 pip install dlib
+
+
 pip install opencv-python
+
+
 pip install numpy
+
+
 pip install face-recognition
