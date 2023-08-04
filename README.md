@@ -1,5 +1,5 @@
 # Face-recognitation-attendance-system
-[Set up](url)
+Set uo
 
 Install Python
 
