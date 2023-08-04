@@ -12,6 +12,8 @@ python --version
 Install CMake
 
 Download CMake from . Install & Add to Path fro all users
+
+
 ![cmake_download](https://github.com/Debmallya-Panja/Face-recognitation-attendence-system/assets/140999209/ff78f4a8-e309-4e26-8e33-bbd71fcedfda)
 
 
