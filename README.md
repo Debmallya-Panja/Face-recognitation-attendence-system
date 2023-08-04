@@ -6,7 +6,8 @@ Install Python
 Download Python from https://www.python.org/downloads/
 
 Check whether Python is properly installed or not check the python version using the below command.
-python --version
+
+    python --version
 
 
 
