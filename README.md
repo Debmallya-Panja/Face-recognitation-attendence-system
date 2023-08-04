@@ -1,9 +1,9 @@
 # Face-recognitation-attendance-system
-Set uo
+Set up
 
 Install Python
 
-Download Python from here
+Download Python from [herehttps://www.python.org/downloads/](url)
 Check whether Python is properly installed or not check the python version using the below command.
 python --version
 
